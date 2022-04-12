@@ -1,0 +1,5 @@
+/eks_policy.json
+/.terraform
+/.terraform.lock.hcl
+/eks_cni_policy.json
+/ec2_container_policy.json
